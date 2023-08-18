@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 desktop.ini
+
+# Original Jupyter File used for reference, easier when both in same directory
+original.ipynb
