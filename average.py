@@ -16,5 +16,5 @@ def average(json_file):
 
 
 if __name__ == "__main__":
-    data = average("elite.json")
+    data = average("jsons/Pmutation.json")
     print(data)
